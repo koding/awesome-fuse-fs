@@ -1,6 +1,6 @@
 # Awesome FUSE Filesystem
 
-This is a list of resources related to FUSE
+This is a list of resources related to [FUSE]
 (https://en.wikipedia.org/wiki/Filesystem_in_Userspace), Filesystem in
 Userspace. (This is different from https://github.com/vinkla/awesome-fuse). If
 I've missed any, which I'm sure I've, pleae open a PR.
@@ -18,16 +18,15 @@ I've missed any, which I'm sure I've, pleae open a PR.
 * [osxfuse](https://osxfuse.github.io) - For OSX
 * [libfuse](https://github.com/libfuse/libfuse) - Reference implementation for
   Linux FUSE.
-* [Dokan](https://dokan-dev.github.io) - For Windows; has a [FUSE
-  wrapper](https://github.com/dokan-dev/dokany/wiki/FUSE).
+* [Dokan](https://dokan-dev.github.io) - For Windows; has a [FUSE wrapper](https://github.com/dokan-dev/dokany/wiki/FUSE).
 
 ## Built On
 
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File
-  Transfer Protocol; same authors as (osxfuse)[https://github.com/osxfuse].
+  Transfer Protocol; same authors as [osxfuse](https://github.com/osxfuse).
 Language: C.
 * [sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to
-  connect to SSH servers; same authors as (libfuse)[https://github.com/libfuse].
+  connect to SSH servers; same authors as [libfuse](https://github.com/libfuse).
 Language: C.
 * [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay
   filesystem written in Go. Language: Golang;

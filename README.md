@@ -10,8 +10,7 @@ I've missed any, which I'm sure I've, pleae open a PR.
 * [Libraries](#libraries)
 * [Built On](#built-on)
 * [Posts](#posts)
-* [Videos](#videos)
-* [Mailing Lists](#mailing-lists)
+* [Misc](#misc)
 
 ## Libraries
 
@@ -39,17 +38,13 @@ Language: C.
 
 * [Writing a FUSE filesystem in
   Python](https://www.stavros.io/posts/python-fuse-filesystem/)
-
-## Slides
-
 * [Writing a file system in
   Go](https://bazil.org/talks/2013-06-10-la-gophers/#1)
 
-## Mailing Lists
+## Misc
 
-* [fuse-devel](https://sourceforge.net/p/fuse/mailman/fuse-devel)
-
-## Videos
+* [fuse-devel](https://sourceforge.net/p/fuse/mailman/fuse-devel) - Development
+  mailing list.
 
 ## License
 

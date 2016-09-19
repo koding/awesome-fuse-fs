@@ -32,6 +32,8 @@ today!
   write filesystems in Ruby (FuseFS API over rfuse). Language: Ruby.
 * [fuse4js](https://github.com/bcle/fuse4js) - FUSE bindings for Javascript and
   node.js (possibly outdated). Language: Javascript.
+* [fuse-google-drive](https://github.com/jcline/fuse-google-drive) - A fuse
+ http://loggedfs.sourceforge.net filesystem wrapper for Google Drive.
 
 ## Built On
 
@@ -76,6 +78,8 @@ content. Language: Golang.
   Language: C.
 * [LoggedFS](http://loggedfs.sourceforge.net/) - Filesystem monitoring with
   Fuse. Language: C++.
+* [go-mtpfs](https://github.com/hanwen/go-mtpfs) - Mount MTP devices over FUSE.
+  Language: Go.
 
 ## Posts
 
@@ -99,6 +103,8 @@ Slides with high level explanation.
   X](http://stuff-things.net/2015/05/20/fuse-and-sshfs-on-os-x) Small tutorial
 on installing and running sshfs on OSX.
 * [Python Fuse](http://www.slideshare.net/matteobertozzi/python-fuse)
+* [Writing a FUSE Filesystem: a
+  Tutorial](http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/index.html)
 
 ## Misc
 

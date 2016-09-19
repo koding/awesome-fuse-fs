@@ -72,6 +72,10 @@ content. Language: Golang.
   Golang.
 * [unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) - union filesystem
   using fuse. Language: C.
+* [GlusterFS](https://github.com/gluster/glusterfs) -  Storage for your Cloud.
+  Language: C.
+* [LoggedFS](http://loggedfs.sourceforge.net/) - Filesystem monitoring with
+  Fuse. Language: C++.
 
 ## Posts
 

@@ -81,6 +81,7 @@ content. Language: Golang.
 * [go-mtpfs](https://github.com/hanwen/go-mtpfs) - Mount MTP devices over FUSE.
   Language: Go.
 * [πfs](https://github.com/philipl/pifs) - Filesystem that stores your data in π. Language: C.
+* [s3fs](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3. Language: C++.
 
 ## Posts
 

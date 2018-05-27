@@ -54,13 +54,13 @@ Language: C.
 * [tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS
   decentralized secure filesystem. Language: Python.
 * [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on
-  FUSE. Language: C++;
+  FUSE. Language: C++.
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) -
   FUSE filesystem over Google Drive. Language: OCaml.
 * [mp3fs](https://github.com/khenriks/mp3fs) - FUSE-based transcoding filesystem
   from FLAC to MP3. Language: C++.
 * [encfs](https://github.com/vgough/encfs) - An Encrypted Filesystem for FUSE.
-  Language: C++;
+  Language: C++.
 * [GDriveFS](https://github.com/dsoprea/GDriveFS) - An innovative FUSE wrapper
   for Google Drive; Language: Python.
 * [pachyderm](https://github.com/pachyderm/pachyderm) - Containerized Data
@@ -80,6 +80,7 @@ content. Language: Golang.
   Fuse. Language: C++.
 * [go-mtpfs](https://github.com/hanwen/go-mtpfs) - Mount MTP devices over FUSE.
   Language: Go.
+* [πfs](https://github.com/philipl/pifs) - Filesystem that stores your data in π. Language: C.
 
 ## Posts
 

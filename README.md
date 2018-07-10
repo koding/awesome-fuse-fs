@@ -32,6 +32,8 @@ today!
   write filesystems in Ruby (FuseFS API over rfuse). Language: Ruby.
 * [fuse4js](https://github.com/bcle/fuse4js) - FUSE bindings for Javascript and
   node.js (possibly outdated). Language: Javascript.
+* [fuse-google-drive](https://github.com/jcline/fuse-google-drive) - A fuse
+ http://loggedfs.sourceforge.net filesystem wrapper for Google Drive.
 
 ## Built On
 
@@ -52,13 +54,13 @@ Language: C.
 * [tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS
   decentralized secure filesystem. Language: Python.
 * [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on
-  FUSE. Language: C++;
+  FUSE. Language: C++.
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) -
   FUSE filesystem over Google Drive. Language: OCaml.
 * [mp3fs](https://github.com/khenriks/mp3fs) - FUSE-based transcoding filesystem
   from FLAC to MP3. Language: C++.
 * [encfs](https://github.com/vgough/encfs) - An Encrypted Filesystem for FUSE.
-  Language: C++;
+  Language: C++.
 * [GDriveFS](https://github.com/dsoprea/GDriveFS) - An innovative FUSE wrapper
   for Google Drive; Language: Python.
 * [pachyderm](https://github.com/pachyderm/pachyderm) - Containerized Data
@@ -72,6 +74,14 @@ content. Language: Golang.
   Golang.
 * [unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) - union filesystem
   using fuse. Language: C.
+* [GlusterFS](https://github.com/gluster/glusterfs) -  Storage for your Cloud.
+  Language: C.
+* [LoggedFS](http://loggedfs.sourceforge.net/) - Filesystem monitoring with
+  Fuse. Language: C++.
+* [go-mtpfs](https://github.com/hanwen/go-mtpfs) - Mount MTP devices over FUSE.
+  Language: Go.
+* [πfs](https://github.com/philipl/pifs) - Filesystem that stores your data in π. Language: C.
+* [s3fs](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3. Language: C++.
 
 ## Posts
 
@@ -95,6 +105,8 @@ Slides with high level explanation.
   X](http://stuff-things.net/2015/05/20/fuse-and-sshfs-on-os-x) Small tutorial
 on installing and running sshfs on OSX.
 * [Python Fuse](http://www.slideshare.net/matteobertozzi/python-fuse)
+* [Writing a FUSE Filesystem: a
+  Tutorial](http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/index.html)
 
 ## Misc
 

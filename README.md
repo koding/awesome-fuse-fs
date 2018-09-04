@@ -34,6 +34,11 @@ today!
   node.js (possibly outdated). Language: Javascript.
 * [fuse-google-drive](https://github.com/jcline/fuse-google-drive) - A fuse
  http://loggedfs.sourceforge.net filesystem wrapper for Google Drive.
+ 
+## Boilerplates
+
+* [libfuse examples](https://github.com/libfuse/libfuse/tree/master/example) - Example file systems in the libfuse source tree.
+* [fusell-seed](https://github.com/noahdesu/fusell-seed) - In-memory seed project using low-level interface.
 
 ## Built On
 

@@ -49,6 +49,8 @@ Language: C.
   Language: Golang.
 * [mirrorfs](https://github.com/elgutierrez/mirrorfs) - Go filesystem project
   using bazil/fuse. Language: Golang.
+* [gocachefs](https://bitbucket.org/photocrati/gocachefs) - Works around
+  high-latency issues when working with remote filesystems. Language: Golang.
 * [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay
   filesystem written in Go. Language: Golang.
 * [tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS

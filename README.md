@@ -34,6 +34,10 @@ today!
   node.js (possibly outdated). Language: Javascript.
 * [fuse-google-drive](https://github.com/jcline/fuse-google-drive) - A fuse
  http://loggedfs.sourceforge.net filesystem wrapper for Google Drive.
+* [mwri/erlang-efuse](https://github.com/mwri/erlang-efuse) - A fuse
+ framework for implementing FUSE filesystems in Erlang.
+* [mwri/elixir-userfs](https://github.com/mwri/elixir-userfs) - A fuse
+ framework for implementing FUSE filesystems in Elixir.
 
 ## Built On
 

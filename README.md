@@ -82,6 +82,14 @@ content. Language: Golang.
   Language: Go.
 * [πfs](https://github.com/philipl/pifs) - Filesystem that stores your data in π. Language: C.
 * [s3fs](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3. Language: C++.
+* [catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem.
+  Language: Rust.
+* [goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish
+  Amazon S3 file system written. Language: Go.
+* [mirrorfs](https://github.com/gaul/mirrorfs) - Mirror filesystem operations
+  and check for consistency. Language: C.
+* [s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online
+  data storage. Language: Python.
 
 ## Posts
 

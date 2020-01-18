@@ -1,7 +1,7 @@
 # Awesome FUSE Filesystem
 
-This is a list of resources related to [FUSE]
-(https://en.wikipedia.org/wiki/Filesystem_in_Userspace), Filesystem in
+This is a list of resources related to
+[FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace), Filesystem in
 Userspace. (This is different from https://github.com/vinkla/awesome-fuse). This
 is a Golang heavy list, please help me add other languages to it by opening a PR
 today!

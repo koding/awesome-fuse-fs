@@ -82,6 +82,9 @@ content. Language: Golang.
   Language: Go.
 * [πfs](https://github.com/philipl/pifs) - Filesystem that stores your data in π. Language: C.
 * [s3fs](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3. Language: C++.
+* [spotifile](https://github.com/catharsis/spotifile) - Filesystem for Spotify. Language: C
+* [ffmpegfs](https://github.com/nschlia/ffmpegfs) - filesystem which transcodes between audio and video formats on the fly. Language: C++
+* [id3fs](http://erislabs.net/ianb/projects/id3fs/) - browsable filesystem of your music files, organised into sub-directories by id3 tags
 
 ## Posts
 

@@ -82,6 +82,7 @@ content. Language: Golang.
   Language: Go.
 * [πfs](https://github.com/philipl/pifs) - Filesystem that stores your data in π. Language: C.
 * [s3fs](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3. Language: C++.
+* [SeaweedFS](https://github.com/chrislusf/seaweedfs) - Distributed file system optimized for small files. Language: Go.
 
 ## Posts
 
